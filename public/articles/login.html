@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to DiaVita Club!</title>
+    <link rel="shortcut icon" href="../../src/assets/pictures/title.png" type="image/png">
+
+    <!-- CSS -->
+    <link href="../../src/css/login.css" rel="stylesheet">
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Kanit:300" rel="stylesheet">
+
+    <!-- JS -->
+    <script src="../../src/js/tabsLogin.js"></script>
+    <script src="../../src/js/validation.js"></script>
+    <script src="../../src/js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var sudoSlider = $("#slider").sudoSlider();
+        });
+    </script>
+
+</head>
+<body class="login">
+
+<div class="cont_principal">
+
+    <img src="../../src/assets/pictures/svg/logotrans.svg" class="cont_principal-img">
+
+    <div class="cont_centrar">
+
+        <div class="cont_login">
+
+            <form action="">
+
+                <div class="cont_tabs_login">
+
+                    <ul class='login-list'>
+                        <li class="login-item login-item--active"><a href="#signin"
+                                                                     class="login-item-link login-item-link--active"
+                                                                     onclick="sign_in()">SIGN IN</a>
+                            <span class="linea_bajo_nom"></span>
+                        </li>
+                        <li class="login-item"><a href="#signup" class="login-item-link" onclick="sign_up()">SIGN UP</a><span
+                                class="linea_bajo_nom"></span>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div class="cont_text_inputs show" id="signin">
+
+                    <input type="text" class="login-form" placeholder="EMAIL" name="emauil_us"/>
+
+                    <input type="password" class="login-form" placeholder="PASSWORD" name="pass_us"/>
+
+                    <a href="#" class="login-forgot">Forgot Password ?</a>
+
+
+                    <div class="cont_btn">
+                        <button class="btn_sign">SIGN IN</button>
+
+                    </div>
+                </div>
+
+                <div class="cont_text_inputs hide" id="signup">
+
+                    <input type="text" class="login-form" placeholder="FIRST NAME" name="name_us"/>
+                    <input type="text" class="login-form" placeholder="LAST NAME" name="last_name_us"/>
+                    <input type="text" class="login-form" placeholder="PARTNER NUMBER" name="partner_number"/>
+                    <input type="text" class="login-form" placeholder="EMAIL" name="emauil_us"/>
+
+                    <input type="password" class="login-form" placeholder="PASSWORD" name="pass_us"/>
+                    <input type="password" class="login-form" placeholder="CONFIRM PASSWORD" name="conf_pass_us"/>
+
+
+                    <div class="login-confirm__container">
+
+                        <p>
+                            <input type="checkbox" name="terms_and_cons" id="terms_and_cons"/>
+                            <label for="terms_and_cons" class="login-confirm">Accept Terms and Conditions.</label>
+                        </p>
+
+                    </div>
+
+                    <div class="cont_btn">
+                        <button class="btn_sign">SIGN UP</button>
+                    </div>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <script src="../../src/js/tabsLogin.js"></script>
+    <script src="../../src/js/validation.js"></script>
+    <script src="../../src/js/jquery-3.2.1.min.js"></script>
+</body>
+</html>
