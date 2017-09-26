@@ -1,0 +1,215 @@
+@media screen and (min-width: 400px) and (max-width: 480px) {
+
+    /*BASIC PROP*/
+    .lesson-header-img--fix {
+        padding-top: 100px;
+    }
+
+    /*ONLINE PROMOTION*/
+    /*Basic course of promotion in Instagram*/
+    .android-img {
+        left: 37.5%;
+    }
+
+    .android-icon--right {
+        left: 45%;
+    }
+
+    .android-icon--left {
+        left: 52%;
+    }
+
+    /*OFFLINE PROMOTION*/
+    /*How to reach an agreement about cooperation*/
+    .coop-footer__container,
+    .coop__argument {
+        width: 100%;
+    }
+
+    .coop-container-graphic__content,
+    .coop__container-icons {
+        height: 300px;
+    }
+
+    .coop-container-icon {
+        margin: 25% 0 50%;
+    }
+
+    .coop__container {
+        height: 460px;
+    }
+
+    /*Clients before a face*/
+    .before-face-icon--left {
+        left: 13%;
+        top: 35%;
+    }
+
+    .before-face-icon--right {
+        left: 45%;
+        top: 30%;
+    }
+
+    /*Customers for a live*/
+    .customers__container-images--height {
+        height: 320px;
+    }
+
+    .customers-container-img {
+        left: 7%;
+        width: 380px;
+    }
+
+    .customers-container-text--light {
+        left: 36%;
+        top: 26%;
+        font-size: 10px;
+    }
+
+    .customers-container-icon--light {
+        width: 60px;
+        left: 62%;
+        top: 11%;
+    }
+
+    .customers-container-arrow--big {
+        width: 12px;
+        top: 33%;
+        left: 46.5%;
+    }
+
+    .customers-container-arrow--small {
+        width: 2.5px;
+        left: 48.7%;
+        top: 33.2%;
+    }
+
+    .customers-container-steam--right {
+        width: 12px;
+        left: 44%;
+    }
+
+    .customers-container-steam--left {
+        width: 12px;
+        left: 39%;
+    }
+
+    .customers__container-images {
+        height: 220px;
+    }
+
+    .customers-container-icon--small {
+        left: 85%;
+    }
+
+    .customers-container-icon--drib {
+        width: 7px;
+        top: 20%;
+        left: 74%;
+        animation: drib-drop 4s ease-in-out infinite;
+    }
+
+    @keyframes drib-drop {
+        100% {
+            top: 23%;
+            left: 74.5%;
+        }
+    }
+
+
+    /*Making a residual income*/
+    .income-icon {
+        right: calc(190px + 2%);
+        animation: income-move 7s ease-in infinite;
+    }
+
+    @keyframes income-move {
+        10% {
+            right: calc(190px + 3%);
+            top: 55%;
+            opacity: 0.3;
+        }
+        25% {
+            right: calc(190px + 1%);
+            top: 50%;
+            opacity: 0.7;
+        }
+        50% {
+            right: calc(190px + 3%);
+            top: 45%;
+            opacity: 1;
+        }
+        75% {
+            right: calc(190px + 1%);
+            top: 40%;
+            opacity: 0.7;
+        }
+        100% {
+            right: calc(190px + 3%);
+            top: 35%;
+            opacity: 0;
+        }
+    }
+
+    .income__container-images {
+        height: 250px;
+    }
+
+    .income-container-saling-img {
+        width: 100%;
+        left: 0;
+    }
+
+    .income-container-saling-icon {
+        display: none;
+    }
+
+    /*INCREASE IN SALES*/
+    /*Power of a declaration*/
+    .declaration-icon--middle {
+        left: 40%;
+    }
+
+    .declaration-icon--right {
+        left: 5%;
+    }
+
+    /*NEGOTIATION*/
+    /*The rule of 3 “Yes”*/
+    .yes__images {
+        width: 90%;
+    }
+
+    .yes__dialog {
+        width: 80%;
+    }
+
+    .yes-content-img {
+        margin-top: 0;
+    }
+
+    .yes-hang__container {
+        width: 100%;
+    }
+
+    /*Mister-charm*/
+    .charm-star--first {
+        top: 20%;
+        right: calc(180px + 2%);
+    }
+
+    .charm-star--second {
+        top: 25%;
+        right: calc(280px + 2%);
+    }
+
+    .charm-star--last {
+        top: 40%;
+        right: calc(290px + 2%);
+    }
+
+    .charm-container__content-fix {
+        width: 80%;
+    }
+
+}

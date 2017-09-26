@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420">
+    <defs>
+        <style>.cls-1{fill:#1fdba5;stroke:#11113f;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+    </defs>
+    <title>plus</title>
+    <path class="cls-1"
+          d="M150,150H20A20,20,0,0,0,0,170v60a20,20,0,0,0,20,20H150V380a20,20,0,0,0,20,20h60a20,20,0,0,0,20-20V250H380a20,20,0,0,0,20-20V170a20,20,0,0,0-20-20H250V20A20,20,0,0,0,230,0H170a20,20,0,0,0-20,20Z"
+          transform="translate(10 10)"/>
+</svg>

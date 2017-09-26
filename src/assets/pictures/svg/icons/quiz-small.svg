@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.1 215.18">
+    <defs>
+        <style>.cls-1{fill:#ed375a;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:12px;}</style>
+    </defs>
+    <title>quiz-small</title>
+    <path class="cls-1"
+          d="M182.69,243.13l22.59,22.6c22.15-29.73,45.14-39.12,63.49-22.66,20.15,18.1,7.48,41.14-10.82,50.18-27.48,13.57-52.57,19.46-60.66,44.72,11.4-12.56,28.73-16.52,57.11-15.8,31.78.8,49.66-7.54,56.48-14.33,30-29.87,32.27-74.87,2.62-100.59C241,144.4,187.63,219.14,182.69,243.13Z"
+          transform="translate(-145.5 -176.68)"/>
+    <circle class="cls-1" cx="173.12" cy="364.24" r="21.61" transform="translate(-375.3 204.94) rotate(-67.05)"/>
+</svg>

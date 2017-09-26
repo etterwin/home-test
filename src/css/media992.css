@@ -1,0 +1,220 @@
+@media screen and (min-width: 854px) and (max-width: 1049px) {
+
+    input[type="text"] {
+        right: 1%;
+        top: 40px;
+    }
+
+    input[type="submit"] {
+        right: 1%;
+        top: 40px;
+    }
+
+    /*header*/
+    .logout-link {
+        margin-right: 2%;
+    }
+
+    .navigation-list {
+        margin-left: 2%;
+    }
+
+    /*profile*/
+    .user-data--left,
+    .user-data--right {
+        width: 100%;
+    }
+
+    .user-info__container {
+        width: 65%;
+    }
+
+    /*contacts*/
+    .contacts {
+        width: 65%;
+    }
+
+    .popup-box {
+        width: 70%;
+    }
+
+    .contact__container {
+        width: 45%;
+    }
+
+    /*settings*/
+    .settings {
+        width: 65%;
+    }
+
+    .setting__avatar {
+        padding: 20px 10px;
+        width: 25%;
+    }
+
+    /*shop*/
+    .shop-item__container {
+        width: 30%;
+        padding: 5px 0;
+        box-sizing: border-box;
+    }
+
+    /*SCHOOL*/
+    .school__body {
+        width: 73%;
+    }
+
+    .school__navigation {
+        width: 25%;
+    }
+
+    /*BASIC PROP*/
+    .lesson-header-img--big {
+        width: 330px;
+    }
+
+    /*ONLINE PROMOTION*/
+    /*Basic course of promotion in Instagram*/
+    .android-img {
+        left: 22.5%;
+    }
+
+    .android-icon--right {
+        left: 40%;
+    }
+
+    .android-icon--left {
+        left: 53%;
+    }
+
+    /*OFFLINE PROMOTION*/
+    /*Combating contradictions*/
+    .contradictions-infographic-text-two {
+        padding: 15px 10px;
+        width: 39%;
+    }
+
+    .contradictions-infographic-text-one {
+        width: 39%;
+        padding: 30px 10px;
+    }
+
+    .contradictions-infographic-number {
+        padding-top: 40px;
+    }
+
+    .contradictions__infographic {
+        width: 100%;
+    }
+
+    /*Clients before a face*/
+    .before-face-icon--left {
+        left: 43%;
+    }
+
+    .before-face-icon--right {
+        left: 65%;
+    }
+
+    /*Customers for life*/
+    .customers-container-img {
+        left: 12.5%;
+    }
+
+    .customers-container-text--light {
+        left: 37%;
+    }
+
+    .customers-container-icon--light {
+        left: 60.5%;
+    }
+
+    .customers-container-arrow--big {
+        top: 28.5%;
+        left: 46%;
+    }
+
+    .customers-container-arrow--small {
+        left: 48.5%;
+        top: 28%;
+    }
+
+    .customers-container-steam--right {
+        left: 44%;
+    }
+
+    .customers-container-steam--left {
+        left: 40%;
+    }
+
+    .customers-container-icon--small {
+        left: 80%;
+    }
+
+    .customers-container-icon--drib {
+        width: 10px;
+        top: 15%;
+        left: 70%;
+        animation: drib-drop 4s ease-in-out infinite;
+    }
+
+    @keyframes drib-drop {
+        100% {
+            top: 20%;
+            left: 70.5%;
+        }
+    }
+
+
+    /*Making a residual income*/
+    .income-icon {
+        right: calc(160px + 2%);
+        animation: income-move 7s ease-in infinite;
+    }
+
+    @keyframes income-move {
+        10% {
+            right: calc(160px + 3%);
+            top: 55%;
+            opacity: 0.3;
+        }
+        25% {
+            right: calc(160px + 1%);
+            top: 50%;
+            opacity: 0.7;
+        }
+        50% {
+            right: calc(160px + 3%);
+            top: 45%;
+            opacity: 1;
+        }
+        75% {
+            right: calc(160px + 1%);
+            top: 40%;
+            opacity: 0.7;
+        }
+        100% {
+            right: calc(160px + 3%);
+            top: 35%;
+            opacity: 0;
+        }
+    }
+
+    .income-container-saling-icon {
+        top: 69%;
+    }
+
+    /*NEGOTIATION*/
+    /*Mister-charm*/
+    .charm-star--first {
+        right: calc(120px + 2%);
+    }
+
+    .charm-star--second {
+        right: calc(250px + 2%);
+    }
+
+    .charm-star--last {
+        right: calc(260px + 2%);
+    }
+}

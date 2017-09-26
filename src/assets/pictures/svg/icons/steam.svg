@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.75 92.06">
+    <defs>
+        <style>.cls-1{fill:#fff;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px;}</style>
+    </defs>
+    <title>steam</title>
+    <path class="cls-1"
+          d="M241.63,295c-2.67.67-10.22-9.09-9-19,.86-7,5.32-7.63,11-19,2.26-4.52,5.73-11.47,6-20,.42-13.35-7.28-22.21-6-23s9.79,7.26,14,19c1.34,3.73,6.11,17,0,28-3.53,6.32-7,5.18-11,12C240.21,283.81,244.28,294.33,241.63,295Z"
+          transform="translate(-228.5 -209.95)"/>
+    <path class="cls-1"
+          d="M266.63,298c-1.85.19-6-7.4-4-14,1.47-4.88,5-5,8-10,5.43-9.09.23-19.46,2-20s9.88,10.21,7,19c-1.65,5-5.44,5-9,12C266.93,292.26,268.19,297.84,266.63,298Z"
+          transform="translate(-228.5 -209.95)"/>
+</svg>

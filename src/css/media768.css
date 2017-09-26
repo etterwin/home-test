@@ -1,0 +1,249 @@
+@media screen and (min-width: 768px) and (max-width: 853px) {
+
+    input[type="text"] {
+        right: 1%;
+        top: 40px;
+    }
+
+    input[type="submit"] {
+        right: 1%;
+        top: 40px;
+    }
+
+    /*header*/
+    .logout-link {
+        margin-top: 14px;
+    }
+
+    .navigation-item-link,
+    .logout-link {
+        font-size: 16px;
+    }
+
+    .header-form {
+        display: none;
+    }
+
+    .header {
+        height: 50px;
+    }
+
+    .input[type="text"] {
+        font-size: 14px;
+    }
+
+    .logout-link {
+        margin-right: 2%;
+    }
+
+    .navigation-list {
+        margin-left: 2%;
+    }
+
+    .navigation-list {
+        margin-left: 2%;
+    }
+
+    .navigation-item {
+        padding: 13px 1%;
+    }
+
+    /*shop*/
+    .shop-item__container {
+        width: 30%;
+        padding: 5px 0;
+        box-sizing: border-box;
+    }
+
+    /*profile*/
+    .user-info__container {
+        width: 65%;
+    }
+
+    .user-data--left,
+    .user-data--right {
+        width: 100%;
+    }
+
+    /*contacts*/
+    .popup-box {
+        width: 80%;
+    }
+
+    .contacts {
+        width: 60%;
+        margin: 20px 0 120px 20px;
+    }
+
+    .contact__container {
+        width: 45%;
+    }
+
+    /*settings*/
+    .settings {
+        width: 65%;
+    }
+
+    .setting__avatar {
+        float: none;
+        width: 40%;
+        margin: 20px auto;
+    }
+
+    .setting__container {
+        width: 100%;
+    }
+
+    /*school*/
+    .school__body {
+        width: 98%;
+        margin: 0 auto 100px;
+        float: none;
+    }
+
+    /*BASIC PROP*/
+    .lesson-header-caption {
+        width: 45%;
+    }
+
+    .lesson-header-img--big {
+        width: 330px;
+    }
+
+    /*ONLINE PROMOTION*/
+    /*Basic course of promotion in Instagram*/
+    .android-img {
+        left: 23.5%;
+    }
+
+    .android-icon--right {
+        left: 41%;
+    }
+
+    .android-icon--left {
+        left: 52%;
+    }
+
+    /*OFFLINE PROMOTION*/
+    /*Combating contradictions*/
+    .contradictions-infographic-number {
+        padding: 40px 10% 0;
+    }
+
+    .contradictions-infographic-text-one,
+    .contradictions-infographic-text-two {
+        width: 39%;
+    }
+
+    /*Clients before a face*/
+    .before-face-icon--left {
+        left: 43%;
+    }
+
+    .before-face-icon--right {
+        left: 65%;
+    }
+
+    /*Customers for life*/
+    .customers-container-img {
+        left: 14%;
+    }
+
+    .customers-container-text--light {
+        left: 37.5%;
+    }
+
+    .customers-container-icon--light {
+        left: 60.5%;
+    }
+
+    .customers-container-arrow--big {
+        top: 28.5%;
+        left: 46%;
+    }
+
+    .customers-container-arrow--small {
+        left: 49%;
+        top: 28.5%;
+    }
+
+    .customers-container-steam--right {
+        left: 44%;
+    }
+
+    .customers-container-steam--left {
+        left: 40.5%;
+    }
+
+    .customers-container-icon--small {
+        left: 80%;
+    }
+
+    .customers-container-icon--drib {
+        width: 10px;
+        top: 15%;
+        left: 70%;
+        animation: drib-drop 4s ease-in-out infinite;
+    }
+
+    @keyframes drib-drop {
+        100% {
+            top: 20%;
+            left: 70.5%;
+        }
+    }
+
+
+    /*Making a residual income*/
+    .income-icon {
+        right: calc(140px + 2%);
+        animation: income-move 7s ease-in infinite;
+    }
+
+    @keyframes income-move {
+        10% {
+            right: calc(140px + 3%);
+            top: 55%;
+            opacity: 0.3;
+        }
+        25% {
+            right: calc(140px + 1%);
+            top: 50%;
+            opacity: 0.7;
+        }
+        50% {
+            right: calc(140px + 3%);
+            top: 45%;
+            opacity: 1;
+        }
+        75% {
+            right: calc(140px + 1%);
+            top: 40%;
+            opacity: 0.7;
+        }
+        100% {
+            right: calc(140px + 3%);
+            top: 35%;
+            opacity: 0;
+        }
+    }
+
+    .income-container-saling-icon {
+        top: 67%;
+    }
+
+    /*NEGOTIATION*/
+    /*Mister-charm*/
+    .charm-star--first {
+        right: calc(120px + 2%);
+    }
+
+    .charm-star--second {
+        right: calc(250px + 2%);
+    }
+
+    .charm-star--last {
+        right: calc(260px + 2%);
+    }
+}
+

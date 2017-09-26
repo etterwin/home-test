@@ -1,0 +1,216 @@
+@media screen and (max-width: 480px) {
+    .header {
+        height: 100px;
+    }
+
+    .shop-item__container {
+        width: 100%;
+        padding: 5px 0;
+        box-sizing: border-box;
+    }
+
+    .tabs__content {
+        margin-bottom: 50px;
+    }
+
+    .main-text {
+        margin-bottom: 50px;
+    }
+
+    .tabs-login-forgot {
+        float: none;
+    }
+
+    .tabs-login__content {
+        width: 90%;
+    }
+
+    .newsfeed-post {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .info__friends {
+        display: block;
+        width: 100%;
+    }
+
+    .info__data {
+        width: 100%;
+    }
+
+    .setting__forms {
+        padding: 0;
+    }
+
+    .setting__avatar {
+        width: 60%;
+    }
+
+    .header-form {
+        display: none;
+    }
+
+    .setting-data {
+        display: block;
+        width: 90%;
+        padding-left: 10px;
+    }
+
+    /*SCHOOL*/
+    .school__navigation {
+        display: none;
+    }
+
+    .down-arrow {
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .header-logo-img {
+        width: 240px;
+    }
+
+    /*BASIC PROP*/
+    .lesson__container {
+        padding: 5px;
+    }
+
+    .lesson-container__content {
+        width: 100%;
+    }
+
+    .lesson-container__texts {
+        width: 100%;
+    }
+
+    .lesson-hint {
+        width: 80%;
+    }
+
+    .lesson-content-icon {
+        margin: 10px auto;
+        display: block;
+    }
+
+    .lesson-content-text {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+        padding: 20px 0;
+    }
+
+    .lesson-header-img--320 {
+        width: 100%;
+    }
+
+    /*ONLINE PROMOTION*/
+    /*Basic course of promotion in Instagram*/
+    .basic-inst__icons {
+        width: 270px;
+    }
+
+    .basic-inst-icon {
+        display: inline-block;
+        width: 65px;
+        padding: 20px 10px;
+    }
+
+    /*Basic course of promotion on Facebook*/
+    .base-fb__icons {
+        width: 270px;
+    }
+
+    .base-fb-icon {
+        width: 70px;
+    }
+
+    .base-fb-container-number {
+        margin-top: -85px;
+    }
+
+    .base-fb-container-number-fix {
+        margin-top: -120px;
+    }
+
+    /*OFFLINE PROMOTION*/
+    /*Fundamental principles of offline promotion*/
+    .fundamental-container-icon {
+        width: 70px;
+    }
+
+    /*How to reach an agreement about cooperation*/
+    .coop-footer__container,
+    .coop__argument {
+        width: 100%;
+    }
+
+    /*INCREASE IN SALES*/
+    /*Combating contradictions*/
+    .contradictions-infographic-text-one,
+    .contradictions-infographic-text-two {
+        display: block;
+        color: #2cacdc;
+        text-align: center;
+        font-size: 19px;
+        text-transform: uppercase;
+        width: 90%;
+        padding: 30px 0;
+        margin: 0 auto;
+    }
+
+    .contradictions-infographic-number,
+    .contradictions-dialog-img {
+        display: none;
+    }
+
+    .contradictions__block {
+        width: 100%;
+    }
+
+    .contradictions-block-img {
+        width: 30%;
+    }
+
+    .contradictions-dialog-img--small {
+        display: block;
+    }
+
+    /*Increase the number of sales with a promo*/
+    .sales-img {
+        width: 100%;
+    }
+
+    /*NEGOTIATION*/
+    /*The rule of 3 “Yes”*/
+    .yes__images {
+        width: 100%;
+    }
+
+    .yes__dialog {
+        width: 80%;
+    }
+
+    .yes-content-img {
+        margin-top: -10px;
+        margin-left: -80px;
+    }
+
+    .yes-hang__container {
+        width: 100%;
+    }
+
+    .yes-hang-text {
+        font-size: 16px;
+    }
+
+    /*Mister-charm*/
+    .charm-container__content,
+    .charm-container__content-fix {
+        width: 100%;
+    }
+
+}

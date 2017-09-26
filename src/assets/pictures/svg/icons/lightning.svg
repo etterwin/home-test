@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 200">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#ffe600;stroke-linecap:round;stroke-linejoin:round;stroke-width:8px;}</style>
+    </defs>
+    <title>lightning</title>
+    <line class="cls-1" x1="134" y1="4" x2="134" y2="48"/>
+    <line class="cls-1" x1="207" y1="26" x2="186" y2="60"/>
+    <line class="cls-1" x1="241" y1="80" x2="212" y2="101"/>
+    <line class="cls-1" x1="241" y1="186" x2="212" y2="170"/>
+    <line class="cls-1" x1="60" y1="26" x2="82" y2="58"/>
+    <line class="cls-1" x1="4" y1="106" x2="46" y2="114"/>
+    <line class="cls-1" x1="21" y1="196" x2="50" y2="178"/>
+</svg>
